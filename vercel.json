@@ -19,7 +19,7 @@
         "OPTIONS"
       ],
       "headers": {
-        "Access-Control-Allow-Origin": "https://ui-web-design.vercel.app"
+        "Access-Control-Allow-Origin": "https://ui-web-design-ten.vercel.app"
       }
     }
   ]

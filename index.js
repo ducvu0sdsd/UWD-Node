@@ -15,7 +15,7 @@ app.use('/uploads', express.static('uploads'));
 dotenv.config()
 app.use(morgan('combined'))
 // Allow access to the specific origin
-app.use(cors('https://ui-web-design.vercel.app'));
+app.use(cors('https://ui-web-design-ten.vercel.app'));
 
 
 // Connect MongoDB
